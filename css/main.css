@@ -5169,16 +5169,16 @@ Created using IcoMoon - icomoon.io
 .cc-profile-image img {
   position: relative;
   border-radius: 50%;
-  height: 220px;
-  width: 220px;
+  height: 180px;
+  width: 180px;
   padding: 0;
   margin: 0;
-  border: 15px solid transparent;
+  border: 20px solid transparent;
   z-index: 9999;
   transition: all .3s ease-out; }
 
 .cc-profile-image a:hover img {
-  transform: scale(3.06, 3.06); }
+  transform: scale(2.06, 2.06); }
 
 .cc-profile-image a:hover:before {
   -webkit-animation: none;
